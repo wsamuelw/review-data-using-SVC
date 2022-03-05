@@ -1,4 +1,6 @@
-# a quick demo to predict sentiment i.e. positive or negative from a list of reviews using SCV
+# predictive analytics using SCV 
+
+a quick demo to predict sentiment i.e. positive or negative from a list of reviews using SCV in python
 
 Here is a link to referrence 
 
