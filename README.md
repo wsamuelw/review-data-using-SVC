@@ -1,6 +1,6 @@
-# sentiment prediction from text data using SCV 
+# sentiment prediction from text data using SVC 
 
-a quick demo to predict sentiment from text i.e. positive or negative (not neutral) from a list of reviews using SCV in python
+a quick demo to predict sentiment from text i.e. positive or negative (not neutral) from a list of reviews using SVC (Support Vector Classifier) in python
 
 for referrence 
 
